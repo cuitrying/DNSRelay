@@ -1,4 +1,5 @@
-## Open in vscode
+# 2021 Spring Semester Computer Network Course Design
+    DNS relay server program
 
 ## content
 Developed a DNS relay server supporting address resolution of both IPv4 and IPv6 using winsock2.
